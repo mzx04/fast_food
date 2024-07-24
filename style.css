@@ -1,0 +1,26 @@
+body {
+    background-color:yellow;
+    color:black;
+  } 
+  
+  h1{
+    color:black;
+    text-align:center
+  }
+  
+  p{
+    font-size: 23px;
+  }
+  
+  img{
+    width:390px;
+    border:10px solid black;
+  }
+  
+  a{
+    color:black;
+    text-decoration: none;
+  }    
+  p{
+    margin: 47px;
+  }
